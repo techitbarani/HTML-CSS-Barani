@@ -1,0 +1,122 @@
+.container{
+  width: 2000px;
+  height: 1400px;
+  /*border: 3px solid red;*/
+  margin: auto;
+} 
+.header{
+  width: 1960px;
+  height: 300px;
+  /*border: 1px solid blue;
+  margin: auto;*/
+  background-color: antiquewhite;
+  contain: content;
+  text-transform: capitalize;
+}/*
+#h1{
+  color: yellowgreen;
+  font-size: 25px;
+  font-family: Arial;
+  text-align: center;
+  
+}
+
+#h4{
+  color: blue;
+  font-size: 35px;
+  font-family: Verdana;
+  text-align: ;
+}*/
+.body{
+  width: 2000px;
+  height: 1100px;
+  /*border: 6px solid orangered;
+  margin: auto;*/
+}
+#h1{
+
+}
+/*.firstfloor{
+  width: 2000px;
+  height: 517px;
+  border: 2px solid blue;
+  margin: auto;
+}
+.secondfloor{
+  width: 2000px;
+  height: 520px;
+  border: 2px solid blue;
+  margin: auto;
+}*/
+
+.topleft{
+  width: 650px;
+  height: 500px;
+  /*border: 1px solid yellow;
+  margin: auto;*/
+  display: inline-block;
+  background-color: yellowgreen;
+  contain: content;
+  line-height: normal;
+  text-align: justify;
+}
+.bottomleft{
+  width: 650px;
+  height: 500px;
+  /*border: 1px solid violet;
+  margin: auto;*/
+  display: inline-block;
+  background-color: violet;
+  contain: content;
+  line-height: normal;
+  text-align: justify;
+}
+
+
+
+.topmed{
+  width: 650px;
+  height: 500px;
+  /*border: 1px solid green;
+  margin: auto;*/
+  display: inline-block;
+  background-color: wheat;
+  contain: content;
+  line-height: normal;
+  text-align: justify;
+}
+.bottommed{
+  width: 650px;
+  height: 500px;
+  /*border: 1px solid brown;
+  margin: auto;*/
+  display: inline-block;
+  background-color: chocolate;
+  contain: content;
+  line-height: normal;
+  text-align: justify;
+
+} 
+.topright{
+  width: 650px;
+  height: 500px;
+  /*border: 1px solid black;
+  margin: auto;*/
+  display: inline-block;
+  background-color: cyan;
+  contain: content;
+  line-height: normal;
+  text-align: justify;
+}
+
+.bottomright{ 
+  width: 650px;
+  height: 500px;
+  /*border: 1px solid khaki;
+  margin: auto;*/
+  display: inline-block;
+  background-color: sandybrown;
+  contain: content;
+  line-height: normal;
+  text-align: justify;
+}
